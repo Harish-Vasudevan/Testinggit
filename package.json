@@ -1,0 +1,22 @@
+{
+  "name": "testinggit",
+  "version": "1.0.0",
+  "description": "testinggit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harish-Vasudevan/Testinggit.git"
+  },
+  "author": "Harishvasudevan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Harish-Vasudevan/Testinggit/issues"
+  },
+  "homepage": "https://github.com/Harish-Vasudevan/Testinggit#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
